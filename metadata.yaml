@@ -1,5 +1,8 @@
 _repo: Seven-Little-Australians_4731
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Turner, Ethel Sybil
@@ -21,6 +24,8 @@ description: "Seven Little Australians (1894) is a classic Australian children's
   \ Library of NSW. The full text of the manuscript has been digitized and can be\
   \ viewed on the Library's website. The original title of the novel, as written by\
   \ Turner, was 'Seven Pickles'.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4731#Seven-Little-Australians
 gutenberg_bookshelf: Australia
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
